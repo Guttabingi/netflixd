@@ -1,0 +1,85 @@
+body{
+    background-image: url("stone-hood-ZiKTSf8BFj0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+}
+div{
+    text-align:justify;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+    padding-right: 4%;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 25%;
+    height: 85%;
+    bottom:15%;
+    opacity: 0.8;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
+.fa{
+    padding-left: 5px;
+    font-size: 15px;
+    width: 15px;
+    height:15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+h1{
+    color: red;
+    font-family: serif;
+} 
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(87, 80, 80);
+    box-sizing: border-box;
+    background-color:rgb(87, 80, 80);
+}
+input[type=text], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(87, 80, 80);
+    box-sizing: border-box;
+    background-color: rgb(87, 80, 80);
+}
+input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid red;
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+}
+p{
+    font-size: 14px;
+    opacity: 0.4;
+}
+span{
+    float: right;
+}
+#gg{
+    color:lime;
+    opacity:1 ;
+}#ff{
+    color: turquoise;
+}
+
+
